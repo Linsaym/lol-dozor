@@ -1,0 +1,867 @@
+[
+  {
+    "id": "Aatrox",
+    "key": 266,
+    "name": "Атрокс"
+  },
+  {
+    "id": "Ahri",
+    "key": 103,
+    "name": "Ари"
+  },
+  {
+    "id": "Akali",
+    "key": 84,
+    "name": "Акали"
+  },
+  {
+    "id": "Akshan",
+    "key": 166,
+    "name": "Акшан"
+  },
+  {
+    "id": "Alistar",
+    "key": 12,
+    "name": "Алистар"
+  },
+  {
+    "id": "Ambessa",
+    "key": 799,
+    "name": "Амбесса"
+  },
+  {
+    "id": "Amumu",
+    "key": 32,
+    "name": "Амуму"
+  },
+  {
+    "id": "Anivia",
+    "key": 34,
+    "name": "Анивия"
+  },
+  {
+    "id": "Annie",
+    "key": 1,
+    "name": "Энни"
+  },
+  {
+    "id": "Aphelios",
+    "key": 523,
+    "name": "Афелий"
+  },
+  {
+    "id": "Ashe",
+    "key": 22,
+    "name": "Эш"
+  },
+  {
+    "id": "AurelionSol",
+    "key": 136,
+    "name": "Аурелион Сол"
+  },
+  {
+    "id": "Aurora",
+    "key": 893,
+    "name": "Аврора"
+  },
+  {
+    "id": "Azir",
+    "key": 268,
+    "name": "Азир"
+  },
+  {
+    "id": "Bard",
+    "key": 432,
+    "name": "Бард"
+  },
+  {
+    "id": "Belveth",
+    "key": 200,
+    "name": "Бел'Вет"
+  },
+  {
+    "id": "Blitzcrank",
+    "key": 53,
+    "name": "Блицкранк"
+  },
+  {
+    "id": "Brand",
+    "key": 63,
+    "name": "Брэнд"
+  },
+  {
+    "id": "Braum",
+    "key": 201,
+    "name": "Браум"
+  },
+  {
+    "id": "Briar",
+    "key": 233,
+    "name": "Брайер"
+  },
+  {
+    "id": "Caitlyn",
+    "key": 51,
+    "name": "Кейтлин"
+  },
+  {
+    "id": "Camille",
+    "key": 164,
+    "name": "Камилла"
+  },
+  {
+    "id": "Cassiopeia",
+    "key": 69,
+    "name": "Кассиопея"
+  },
+  {
+    "id": "Chogath",
+    "key": 31,
+    "name": "Чо'Гат"
+  },
+  {
+    "id": "Corki",
+    "key": 42,
+    "name": "Корки"
+  },
+  {
+    "id": "Darius",
+    "key": 122,
+    "name": "Дариус"
+  },
+  {
+    "id": "Diana",
+    "key": 131,
+    "name": "Диана"
+  },
+  {
+    "id": "Draven",
+    "key": 119,
+    "name": "Дрейвен"
+  },
+  {
+    "id": "DrMundo",
+    "key": 36,
+    "name": "Доктор Мундо"
+  },
+  {
+    "id": "Ekko",
+    "key": 245,
+    "name": "Экко"
+  },
+  {
+    "id": "Elise",
+    "key": 60,
+    "name": "Элиза"
+  },
+  {
+    "id": "Evelynn",
+    "key": 28,
+    "name": "Эвелинн"
+  },
+  {
+    "id": "Ezreal",
+    "key": 81,
+    "name": "Эзреаль"
+  },
+  {
+    "id": "Fiddlesticks",
+    "key": 9,
+    "name": "Фиддлстикс"
+  },
+  {
+    "id": "Fiora",
+    "key": 114,
+    "name": "Фиора"
+  },
+  {
+    "id": "Fizz",
+    "key": 105,
+    "name": "Физз"
+  },
+  {
+    "id": "Galio",
+    "key": 3,
+    "name": "Галио"
+  },
+  {
+    "id": "Gangplank",
+    "key": 41,
+    "name": "Гангпланк"
+  },
+  {
+    "id": "Garen",
+    "key": 86,
+    "name": "Гарен"
+  },
+  {
+    "id": "Gnar",
+    "key": 150,
+    "name": "Гнар"
+  },
+  {
+    "id": "Gragas",
+    "key": 79,
+    "name": "Грагас"
+  },
+  {
+    "id": "Graves",
+    "key": 104,
+    "name": "Грейвз"
+  },
+  {
+    "id": "Gwen",
+    "key": 887,
+    "name": "Гвен"
+  },
+  {
+    "id": "Hecarim",
+    "key": 120,
+    "name": "Гекарим"
+  },
+  {
+    "id": "Heimerdinger",
+    "key": 74,
+    "name": "Хеймердингер"
+  },
+  {
+    "id": "Hwei",
+    "key": 910,
+    "name": "Хвэй"
+  },
+  {
+    "id": "Illaoi",
+    "key": 420,
+    "name": "Иллаой"
+  },
+  {
+    "id": "Irelia",
+    "key": 39,
+    "name": "Ирелия"
+  },
+  {
+    "id": "Ivern",
+    "key": 427,
+    "name": "Иверн"
+  },
+  {
+    "id": "Janna",
+    "key": 40,
+    "name": "Жанна"
+  },
+  {
+    "id": "JarvanIV",
+    "key": 59,
+    "name": "Джарван IV"
+  },
+  {
+    "id": "Jax",
+    "key": 24,
+    "name": "Джакс"
+  },
+  {
+    "id": "Jayce",
+    "key": 126,
+    "name": "Джейс"
+  },
+  {
+    "id": "Jhin",
+    "key": 202,
+    "name": "Джин"
+  },
+  {
+    "id": "Jinx",
+    "key": 222,
+    "name": "Джинкс"
+  },
+  {
+    "id": "Kaisa",
+    "key": 145,
+    "name": "Кай'Са"
+  },
+  {
+    "id": "Kalista",
+    "key": 429,
+    "name": "Калиста"
+  },
+  {
+    "id": "Karma",
+    "key": 43,
+    "name": "Карма"
+  },
+  {
+    "id": "Karthus",
+    "key": 30,
+    "name": "Картус"
+  },
+  {
+    "id": "Kassadin",
+    "key": 38,
+    "name": "Кассадин"
+  },
+  {
+    "id": "Katarina",
+    "key": 55,
+    "name": "Катарина"
+  },
+  {
+    "id": "Kayle",
+    "key": 10,
+    "name": "Кейл"
+  },
+  {
+    "id": "Kayn",
+    "key": 141,
+    "name": "Каин"
+  },
+  {
+    "id": "Kennen",
+    "key": 85,
+    "name": "Кеннен"
+  },
+  {
+    "id": "Khazix",
+    "key": 121,
+    "name": "Ка'Зикс"
+  },
+  {
+    "id": "Kindred",
+    "key": 203,
+    "name": "Киндред"
+  },
+  {
+    "id": "Kled",
+    "key": 240,
+    "name": "Клед"
+  },
+  {
+    "id": "KogMaw",
+    "key": 96,
+    "name": "Ког'Мао"
+  },
+  {
+    "id": "KSante",
+    "key": 897,
+    "name": "К'Санте"
+  },
+  {
+    "id": "Leblanc",
+    "key": 7,
+    "name": "Ле Блан"
+  },
+  {
+    "id": "LeeSin",
+    "key": 64,
+    "name": "Ли Син"
+  },
+  {
+    "id": "Leona",
+    "key": 89,
+    "name": "Леона"
+  },
+  {
+    "id": "Lillia",
+    "key": 876,
+    "name": "Лиллия"
+  },
+  {
+    "id": "Lissandra",
+    "key": 127,
+    "name": "Лиссандра"
+  },
+  {
+    "id": "Locke",
+    "key": 805,
+    "name": "Локк"
+  },
+  {
+    "id": "Lucian",
+    "key": 236,
+    "name": "Люциан"
+  },
+  {
+    "id": "Lulu",
+    "key": 117,
+    "name": "Лулу"
+  },
+  {
+    "id": "Lux",
+    "key": 99,
+    "name": "Люкс"
+  },
+  {
+    "id": "Malphite",
+    "key": 54,
+    "name": "Мальфит"
+  },
+  {
+    "id": "Malzahar",
+    "key": 90,
+    "name": "Мальзахар"
+  },
+  {
+    "id": "Maokai",
+    "key": 57,
+    "name": "Маокай"
+  },
+  {
+    "id": "MasterYi",
+    "key": 11,
+    "name": "Мастер Йи"
+  },
+  {
+    "id": "Mel",
+    "key": 800,
+    "name": "Мэл"
+  },
+  {
+    "id": "Milio",
+    "key": 902,
+    "name": "Милио"
+  },
+  {
+    "id": "MissFortune",
+    "key": 21,
+    "name": "Мисс Фортуна"
+  },
+  {
+    "id": "MonkeyKing",
+    "key": 62,
+    "name": "Вуконг"
+  },
+  {
+    "id": "Mordekaiser",
+    "key": 82,
+    "name": "Мордекайзер"
+  },
+  {
+    "id": "Morgana",
+    "key": 25,
+    "name": "Моргана"
+  },
+  {
+    "id": "Naafiri",
+    "key": 950,
+    "name": "Наафири"
+  },
+  {
+    "id": "Nami",
+    "key": 267,
+    "name": "Нами"
+  },
+  {
+    "id": "Nasus",
+    "key": 75,
+    "name": "Насус"
+  },
+  {
+    "id": "Nautilus",
+    "key": 111,
+    "name": "Наутилус"
+  },
+  {
+    "id": "Neeko",
+    "key": 518,
+    "name": "Нико"
+  },
+  {
+    "id": "Nidalee",
+    "key": 76,
+    "name": "Нидали"
+  },
+  {
+    "id": "Nilah",
+    "key": 895,
+    "name": "Нила"
+  },
+  {
+    "id": "Nocturne",
+    "key": 56,
+    "name": "Ноктюрн"
+  },
+  {
+    "id": "Nunu",
+    "key": 20,
+    "name": "Нуну и Виллумп"
+  },
+  {
+    "id": "Olaf",
+    "key": 2,
+    "name": "Олаф"
+  },
+  {
+    "id": "Orianna",
+    "key": 61,
+    "name": "Орианна"
+  },
+  {
+    "id": "Ornn",
+    "key": 516,
+    "name": "Орн"
+  },
+  {
+    "id": "Pantheon",
+    "key": 80,
+    "name": "Пантеон"
+  },
+  {
+    "id": "Poppy",
+    "key": 78,
+    "name": "Поппи"
+  },
+  {
+    "id": "Pyke",
+    "key": 555,
+    "name": "Пайк"
+  },
+  {
+    "id": "Qiyana",
+    "key": 246,
+    "name": "Киана"
+  },
+  {
+    "id": "Quinn",
+    "key": 133,
+    "name": "Квинн"
+  },
+  {
+    "id": "Rakan",
+    "key": 497,
+    "name": "Рэйкан"
+  },
+  {
+    "id": "Rammus",
+    "key": 33,
+    "name": "Раммус"
+  },
+  {
+    "id": "RekSai",
+    "key": 421,
+    "name": "Рек'Сай"
+  },
+  {
+    "id": "Rell",
+    "key": 526,
+    "name": "Релл"
+  },
+  {
+    "id": "Renata",
+    "key": 888,
+    "name": "Рената Гласк"
+  },
+  {
+    "id": "Renekton",
+    "key": 58,
+    "name": "Ренектон"
+  },
+  {
+    "id": "Rengar",
+    "key": 107,
+    "name": "Ренгар"
+  },
+  {
+    "id": "Riven",
+    "key": 92,
+    "name": "Ривен"
+  },
+  {
+    "id": "Rumble",
+    "key": 68,
+    "name": "Рамбл"
+  },
+  {
+    "id": "Ryze",
+    "key": 13,
+    "name": "Райз"
+  },
+  {
+    "id": "Samira",
+    "key": 360,
+    "name": "Самира"
+  },
+  {
+    "id": "Sejuani",
+    "key": 113,
+    "name": "Седжуани"
+  },
+  {
+    "id": "Senna",
+    "key": 235,
+    "name": "Сенна"
+  },
+  {
+    "id": "Seraphine",
+    "key": 147,
+    "name": "Серафина"
+  },
+  {
+    "id": "Sett",
+    "key": 875,
+    "name": "Сетт"
+  },
+  {
+    "id": "Shaco",
+    "key": 35,
+    "name": "Шако"
+  },
+  {
+    "id": "Shen",
+    "key": 98,
+    "name": "Шен"
+  },
+  {
+    "id": "Shyvana",
+    "key": 102,
+    "name": "Шивана"
+  },
+  {
+    "id": "Singed",
+    "key": 27,
+    "name": "Синджед"
+  },
+  {
+    "id": "Sion",
+    "key": 14,
+    "name": "Сион"
+  },
+  {
+    "id": "Sivir",
+    "key": 15,
+    "name": "Сивир"
+  },
+  {
+    "id": "Skarner",
+    "key": 72,
+    "name": "Скарнер"
+  },
+  {
+    "id": "Smolder",
+    "key": 901,
+    "name": "Смолдер"
+  },
+  {
+    "id": "Sona",
+    "key": 37,
+    "name": "Сона"
+  },
+  {
+    "id": "Soraka",
+    "key": 16,
+    "name": "Сорака"
+  },
+  {
+    "id": "Swain",
+    "key": 50,
+    "name": "Свейн"
+  },
+  {
+    "id": "Sylas",
+    "key": 517,
+    "name": "Сайлас"
+  },
+  {
+    "id": "Syndra",
+    "key": 134,
+    "name": "Синдра"
+  },
+  {
+    "id": "TahmKench",
+    "key": 223,
+    "name": "Таам Кенч"
+  },
+  {
+    "id": "Taliyah",
+    "key": 163,
+    "name": "Талия"
+  },
+  {
+    "id": "Talon",
+    "key": 91,
+    "name": "Талон"
+  },
+  {
+    "id": "Taric",
+    "key": 44,
+    "name": "Тарик"
+  },
+  {
+    "id": "Teemo",
+    "key": 17,
+    "name": "Тимо"
+  },
+  {
+    "id": "Thresh",
+    "key": 412,
+    "name": "Треш"
+  },
+  {
+    "id": "Tristana",
+    "key": 18,
+    "name": "Тристана"
+  },
+  {
+    "id": "Trundle",
+    "key": 48,
+    "name": "Трандл"
+  },
+  {
+    "id": "Tryndamere",
+    "key": 23,
+    "name": "Триндамир"
+  },
+  {
+    "id": "TwistedFate",
+    "key": 4,
+    "name": "Твистед Фэйт"
+  },
+  {
+    "id": "Twitch",
+    "key": 29,
+    "name": "Твич"
+  },
+  {
+    "id": "Udyr",
+    "key": 77,
+    "name": "Удир"
+  },
+  {
+    "id": "Urgot",
+    "key": 6,
+    "name": "Ургот"
+  },
+  {
+    "id": "Varus",
+    "key": 110,
+    "name": "Варус"
+  },
+  {
+    "id": "Vayne",
+    "key": 67,
+    "name": "Вейн"
+  },
+  {
+    "id": "Veigar",
+    "key": 45,
+    "name": "Вейгар"
+  },
+  {
+    "id": "Velkoz",
+    "key": 161,
+    "name": "Вел'Коз"
+  },
+  {
+    "id": "Vex",
+    "key": 711,
+    "name": "Векс"
+  },
+  {
+    "id": "Vi",
+    "key": 254,
+    "name": "Вай"
+  },
+  {
+    "id": "Viego",
+    "key": 234,
+    "name": "Виего"
+  },
+  {
+    "id": "Viktor",
+    "key": 112,
+    "name": "Виктор"
+  },
+  {
+    "id": "Vladimir",
+    "key": 8,
+    "name": "Владимир"
+  },
+  {
+    "id": "Volibear",
+    "key": 106,
+    "name": "Волибир"
+  },
+  {
+    "id": "Warwick",
+    "key": 19,
+    "name": "Варвик"
+  },
+  {
+    "id": "Xayah",
+    "key": 498,
+    "name": "Шая"
+  },
+  {
+    "id": "Xerath",
+    "key": 101,
+    "name": "Зерат"
+  },
+  {
+    "id": "XinZhao",
+    "key": 5,
+    "name": "Ксин Жао"
+  },
+  {
+    "id": "Yasuo",
+    "key": 157,
+    "name": "Ясуо"
+  },
+  {
+    "id": "Yone",
+    "key": 777,
+    "name": "Ёнэ"
+  },
+  {
+    "id": "Yorick",
+    "key": 83,
+    "name": "Йорик"
+  },
+  {
+    "id": "Yunara",
+    "key": 804,
+    "name": "Юнара"
+  },
+  {
+    "id": "Yuumi",
+    "key": 350,
+    "name": "Юми"
+  },
+  {
+    "id": "Zaahen",
+    "key": 904,
+    "name": "Заахен"
+  },
+  {
+    "id": "Zac",
+    "key": 154,
+    "name": "Зак"
+  },
+  {
+    "id": "Zed",
+    "key": 238,
+    "name": "Зед"
+  },
+  {
+    "id": "Zeri",
+    "key": 221,
+    "name": "Зери"
+  },
+  {
+    "id": "Ziggs",
+    "key": 115,
+    "name": "Зиггс"
+  },
+  {
+    "id": "Zilean",
+    "key": 26,
+    "name": "Зилеан"
+  },
+  {
+    "id": "Zoe",
+    "key": 142,
+    "name": "Зои"
+  },
+  {
+    "id": "Zyra",
+    "key": 143,
+    "name": "Зайра"
+  }
+]

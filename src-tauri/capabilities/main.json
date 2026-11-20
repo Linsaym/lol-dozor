@@ -1,0 +1,14 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main",
+  "description": "Read-only League integration and Riot key management for the main window",
+  "windows": ["main"],
+  "permissions": [
+    "allow-client-snapshot",
+    "allow-key-status",
+    "allow-save-key",
+    "allow-check-key",
+    "allow-player-stats",
+    "allow-open-reference"
+  ]
+}

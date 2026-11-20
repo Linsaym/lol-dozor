@@ -1,0 +1,25 @@
+[package]
+name = "lol-dozor"
+version = "0.2.0"
+description = "LoL Dozor desktop application"
+edition = "2024"
+
+[lib]
+name = "lol_dozor_lib"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+tauri = { version = "2", features = [] }
+tauri-plugin-opener = "2.7.3"
+tauri-plugin-window-state = "2.5.0"
+tempfile = "3.27.0"
+tokio = { version = "1.54.1", features = ["sync", "time"] }
+zeroize = "1.9.2"
+
+[target."cfg(windows)".dependencies]
+windows-sys = { version = "0.61", features = ["Win32_Security_Cryptography", "Win32_System_Memory", "Win32_Foundation"] }
